@@ -12,3 +12,4 @@ Modelin son aşamasında, özel olarak geliştirilmiş ESA modeli, transfer öğ
 Skyr-Net mimarimiz, sıralı olarak dört konvolüsyon katmanı, ardışık her bir konvolüsyon katmanının hemen ardından gelen 3x3 boyutlarında maksimum havuzlama ve %10 düşme oranı (dropout) kullanılarak tasarlanmıştır.
 Konvolüsyon katmanları, birinci katmanın 11x11 boyutunda 64 filtre, ikinci katmanın 5x5 boyutunda 64 filtre ve sonraki katmanların 3x3 boyutunda 64 filtre olacak şekilde düzenlenmiştir.
 
+![Skyr-Net](https://github.com/Mahmutcimencode/Skyrnet/assets/139555064/d8ecb947-940e-4a9d-b516-dbede820b027)
